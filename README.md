@@ -2,7 +2,15 @@
 Machine Learning Project on the PGA Tour Data from 2010-2018
 
 ## Data set
-The data set selected for this project contains data was scraped from the PGA Tour's official website. The code for data collection is included in the folder Data Scraping.
+The data set selected for this project contains data scraped from the PGA Tour's official website. The code for data collection is included in the folder Data Scraping.
+
+## Brief Description of the Files 
+Merging PGA Tour Data.ipynb - Combining all the scraped data into one dataframe 
+
+pgaTourData.csv - The dataframe after combining all the scraped data
+
+PGA Tour.ipynb - Contains exploratory data analysis for the pgaTourData.csv and machine learning project utilizing classification and regression. This file includes data cleaning, data formatting, feature investigation, random forest, linear regression, logisitic regression, support vector machines, polynomial regression, and an analysis of the PGA tour statistics collected over time.
+
 
 ## Brief Description of the Data
 pgaTourData.csv contains 1674 rows and 18 columns. Each row indicates a golfer's performance for that year.
