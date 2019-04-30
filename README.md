@@ -2,7 +2,7 @@
 Machine Learning Project on the PGA Tour Data from 2010-2018
 
 ## Data set
-The Data set selected for this project contains data was scraped from the PGA Tour's official website. The code for data collection is included in the folder Data Scraping.
+The data set selected for this project contains data was scraped from the PGA Tour's official website. The code for data collection is included in the folder Data Scraping.
 
 ## Brief Description of the Data
 pgaTourData.csv contains 1674 rows and 18 columns. Each row indicates a golfer's performance for that year.
